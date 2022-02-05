@@ -47,19 +47,195 @@ This course is graded pass/fail. Grades will be based on the weekly participatio
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Regulation of cell growth by the composition of its environment | &nbsp; |
-| 3 | Identification and functional analysis of cell cycle components | &nbsp; |
-| 4 | Bacterial differentiation in response to starvation and cell signaling | &nbsp; |
-| 5 | Lab Visit | Visit the [Amon Lab](http://amonlab.scripts.mit.edu/) at MIT |
-| 6 | Genetic regulation of cell fate decision-making in yeast | &nbsp; |
-| 7 | Growth and proliferation promoting pathways I: Ras | &nbsp; |
-| 8 | Growth and proliferation promoting pathways II: TOR | Written Midterm Assignment due |
-| 9 | Nutrient control of entry into sporulation | &nbsp; |
-| 10 | Biofilm formation by yeast and bacteria | &nbsp; |
-| 11 | Repression of gene transcription in the absence of environmental stimuli | &nbsp; |
-| 12 | Environmental control of cellular lifespan | &nbsp; |
-| 13 |  {{< br >}}{{< br >}} Part 1: Germ cell differentiation in mammals {{< br >}}{{< br >}} Part 2: Growth pathways in disease and development {{< br >}}{{< br >}}  | &nbsp; |
-| 14 | Final Oral Presentations | Final Oral Presentations
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Regulation of cell growth by the composition of its environment
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Identification and functional analysis of cell cycle components
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Bacterial differentiation in response to starvation and cell signaling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Visit
+{{< tdclose >}}
+{{< tdopen >}}
+Visit the [Amon Lab](http://amonlab.scripts.mit.edu/) at MIT
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Genetic regulation of cell fate decision-making in yeast
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Growth and proliferation promoting pathways I: Ras
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Growth and proliferation promoting pathways II: TOR
+{{< tdclose >}}
+{{< tdopen >}}
+Written Midterm Assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Nutrient control of entry into sporulation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Biofilm formation by yeast and bacteria
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Repression of gene transcription in the absence of environmental stimuli
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Environmental control of cellular lifespan
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Part 1: Germ cell differentiation in mammals
+
+Part 2: Growth pathways in disease and development
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Final Oral Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Final Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
